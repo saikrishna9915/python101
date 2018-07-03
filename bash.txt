@@ -1,3 +1,6 @@
 pwd
 cd
 mkdir
+touch
+cat
+rm
